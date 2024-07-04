@@ -1,0 +1,16 @@
+19:04:30.474 [main] INFO  org.testng.internal.Utils -%PARSER_ERROR[kvp]- [TestNG] Running:
+  C:\Users\IMT - Teilnehmer\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+19:04:30.590 [main] INFO  com.demoqa.tests.TestBase -%PARSER_ERROR[kvp]- Start test: loginPositiveTest
+19:04:40.656 [main] INFO  com.demoqa.utils.MyListener -%PARSER_ERROR[kvp]- After find element --> By.cssSelector: .top-card:nth-child(6)
+19:04:41.240 [main] INFO  com.demoqa.utils.MyListener -%PARSER_ERROR[kvp]- After find element --> By.xpath: //span[.='Login']
+19:04:41.507 [main] INFO  com.demoqa.utils.MyListener -%PARSER_ERROR[kvp]- After find element --> By.id: userName
+19:04:42.719 [main] INFO  com.demoqa.utils.MyListener -%PARSER_ERROR[kvp]- After find element --> By.id: userName
+19:04:42.821 [main] INFO  com.demoqa.utils.MyListener -%PARSER_ERROR[kvp]- After find element --> By.id: userName
+19:04:43.026 [main] INFO  com.demoqa.utils.MyListener -%PARSER_ERROR[kvp]- After find element --> By.id: password
+19:04:43.168 [main] INFO  com.demoqa.utils.MyListener -%PARSER_ERROR[kvp]- After find element --> By.id: password
+19:04:43.227 [main] INFO  com.demoqa.utils.MyListener -%PARSER_ERROR[kvp]- After find element --> By.id: password
+19:04:43.336 [main] INFO  com.demoqa.utils.MyListener -%PARSER_ERROR[kvp]- After find element --> By.id: login
+19:04:43.586 [main] INFO  com.demoqa.utils.MyListener -%PARSER_ERROR[kvp]- After find element --> By.id: userName-value
+19:04:46.492 [main] INFO  com.demoqa.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED loginPositiveTest
+19:04:46.492 [main] INFO  com.demoqa.tests.TestBase -%PARSER_ERROR[kvp]- ***********************************************************************
